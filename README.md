@@ -9,3 +9,6 @@ To add the plugin to your WordPress website from the dashboard, follow these ste
 6. Open EPS Settings.
 7. Enter the required credentials (Merchant ID, Password, etc.).
 8. Enable the EPS Payment System in WooCommerce.
+9. You can watch the step-by-step setup video on YouTube here:
+https://youtu.be/SY6LFRjH6ZM
+
