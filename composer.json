@@ -5,8 +5,8 @@
     "license": "",
     "authors": [
         {
-            "name": "Md Mokbul Hosaain",
-            "email": "mokbulhossain098@gmail.com"
+            "name": "Easy Payment System (EPS)",
+            "email": "support@eps.com.bd"
         }
     ],
     "minimum-stability": "dev",
@@ -18,3 +18,4 @@
         "files": [ "includes/functions.php" ]
     }
 }
+
