@@ -1,0 +1,21 @@
+{
+    "name": "mokbul/eps-payment-method",
+    "description": "An eCommerce payment method that helps you sell anything. Beautifully.",
+    "type": "wordpress-plugin",
+    "license": "",
+    "authors": [
+        {
+            "name": "Easy Payment System (EPS)",
+            "email": "support@eps.com.bd"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MCoder\\EPS\\": "includes/"
+        },
+        "files": [ "includes/functions.php" ]
+    }
+}
+
