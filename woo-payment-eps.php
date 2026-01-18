@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: EPS - Easy Payment System
- * Description: An eCommerce payment method that helps you sell anything beautifully.
- * Plugin URI: https://www.eps.com.bd
- * Author: EPS
- * Author URI: https://www.eps.com.bd
- * Version: 0.0.4
+ * Description: Payment Automation is Easier, Faster and more Secured.
+ * Plugin URI: https://eps.com.bd
+ * Author: EPS Team
+ * Author URI: https://eps.com.bd
+ * Version: 0.0.5
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -272,3 +272,4 @@ function dc_eps() {
 
 // kick-off the plugin
 dc_eps();
+
